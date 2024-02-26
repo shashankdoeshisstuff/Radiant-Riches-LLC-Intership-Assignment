@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Radiant-Riches-LLC-Intership-Assignment/static/css/main.24ec7333.css",
+    "main.js": "/Radiant-Riches-LLC-Intership-Assignment/static/js/main.8628a482.js",
+    "static/js/453.5857fca3.chunk.js": "/Radiant-Riches-LLC-Intership-Assignment/static/js/453.5857fca3.chunk.js",
+    "index.html": "/Radiant-Riches-LLC-Intership-Assignment/index.html",
+    "main.24ec7333.css.map": "/Radiant-Riches-LLC-Intership-Assignment/static/css/main.24ec7333.css.map",
+    "main.8628a482.js.map": "/Radiant-Riches-LLC-Intership-Assignment/static/js/main.8628a482.js.map",
+    "453.5857fca3.chunk.js.map": "/Radiant-Riches-LLC-Intership-Assignment/static/js/453.5857fca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ec7333.css",
+    "static/js/main.8628a482.js"
+  ]
+}
