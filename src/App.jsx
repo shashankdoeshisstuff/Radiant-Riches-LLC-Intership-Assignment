@@ -1,9 +1,12 @@
 import './App.scss';
+
+// components import
 import Navbar from './components/Navbar'
 import Footer from './components/Footer';
 import DealItem from './components/DealItem'
 import ProductArticle from './components/ProductArticle';
 
+// icons import
 import { CiCircleCheck } from "react-icons/ci";
 import { IoIosInformationCircleOutline } from "react-icons/io";
 import { FaGreaterThan } from "react-icons/fa";
@@ -108,7 +111,7 @@ export default App;
 
 // for the content of products articles
 
-// first artcile
+// first article
 const articleOneHeading = `Builder 1`
 
 const paraForArticleOne_part_one_highlight =`WixPro 72-Inch Responsive Website Builder- `
@@ -141,7 +144,7 @@ design studio, featuring a robust selection of design elements, SEO optimization
 
  const articleTwoRating = 9.5;
 
-// third artcile
+// third article
 const articleThreeHeading = `Builder 1`
 
 const paraForArticleThree_part_one_highlight =`WixPro 72-Inch Responsive Website Builder- `

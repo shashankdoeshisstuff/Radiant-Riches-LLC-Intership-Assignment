@@ -12,7 +12,7 @@ import { FaCheck } from "react-icons/fa";
 
 const ProductArticle = ({label, number, heading, paraOneHighlight, paraOne, paraTwoHighlight, paraTwo, Rating}) => {
     
-    // function for rendering Rating Quote 
+    // function for rendering Rating's Quote 
     const RatingQuote = (value) => {
         if (value > 9 && value <= 9.1) {
             return 'Very Good';
